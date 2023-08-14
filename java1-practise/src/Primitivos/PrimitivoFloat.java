@@ -1,5 +1,5 @@
 public class PrimitivoFloat {
-    static float varFlotante; //por defecto es valor 0.0
+    static float varFlotante; // por defecto es valor 0.0
     public static void main(String[] args) {
         
         float realFloat = 0.00000000000000120f;
