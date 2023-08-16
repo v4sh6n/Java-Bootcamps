@@ -6,6 +6,7 @@ public class Caracteres {
         char caracterer2 = '0';
         char caracterer3 = 'A';
 
+        
         System.out.println("Caracter = " + caracterer3);
         System.out.println("Caracter = " + caracterer2);
         System.out.println("Caracter =" + caracterer);
