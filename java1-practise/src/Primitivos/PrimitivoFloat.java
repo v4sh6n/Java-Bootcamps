@@ -16,7 +16,7 @@ public class PrimitivoFloat {
         System.out.println("valor máx de un Double " + Double.MAX_VALUE);
         System.out.println("valor min de un Double " + Double.MIN_VALUE);
 
-        //var varFlotante = 3.1416f; // cuando es local la variable debe inicializarse siempre
+        //var varFlotante = 3.1416f; // cuando es local la variable debe inicializarse  siempre
         System.out.println("varFlotante = " + varFlotante);
 
     }
