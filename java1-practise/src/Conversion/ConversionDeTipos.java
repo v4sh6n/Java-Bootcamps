@@ -3,7 +3,7 @@ package Conversion;
 public class ConversionDeTipos {
     public static void main(String[] args) {
         String numeroStr = "58";
-
+        // var a partir de java 10 se puede usar el tipo dinamico var
         int numeroInt = Integer.parseInt(numeroStr);
         System.out.println("numeroInt = " + numeroInt);
 
