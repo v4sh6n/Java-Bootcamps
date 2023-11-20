@@ -8,6 +8,8 @@ public class ConversionDeTipos {
         System.out.println("numeroInt = " + numeroInt);
 
         String realStr = "9757,48";
+        // Reemplaza la coma por un punto
+        realStr = realStr.replace(',', '.');
         double realDouble = Double.parseDouble(realStr);
         System.out.println("realDouble = " + realDouble);
 
@@ -15,5 +17,4 @@ public class ConversionDeTipos {
         boolean logicoBoolean = Boolean.parseBoolean(logicoStr);
         System.out.println("logicoBoolean = " + logicoBoolean);
     }
-
 }
