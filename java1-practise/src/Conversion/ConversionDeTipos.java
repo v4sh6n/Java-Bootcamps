@@ -14,5 +14,13 @@ public class ConversionDeTipos {
         String logicoStr = "true";
         boolean logicoBoolean = Boolean.parseBoolean(logicoStr);
         System.out.println("logicoBoolean = " + logicoBoolean);
+
+        int otroNumeroInt = 100;
+
+        String otroNumeroStr = Integer.toString(otroNumeroInt);
+        System.out.println("OtroNumeroInt = " + otroNumeroInt);
+
+        otroNumeroStr = String.valueOf(otroNumeroInt + 10);
+        System.out.println("otroNumeroStr = " + otroNumeroStr);
     }
 }
