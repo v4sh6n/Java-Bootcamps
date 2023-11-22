@@ -1,3 +1,5 @@
+package Primitivos;
+
 import javax.swing.JOptionPane;
 
 public class SistemasNumericos2 {

@@ -1,3 +1,5 @@
+package HolaMundo;
+
 public class HolaMundo {
     //buena práctica : clases siempre empiezan con Mayus
     

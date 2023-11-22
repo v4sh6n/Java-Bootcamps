@@ -1,3 +1,5 @@
+package Primitivos;
+
 public class PrimitivoFloat {
     static float varFlotante; //por defecto es valor 0.0
     public static void main(String[] args) {

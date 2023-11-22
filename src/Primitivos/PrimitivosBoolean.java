@@ -1,3 +1,5 @@
+package Primitivos;
+
 import java.net.Socket;
 
 public class PrimitivosBoolean {

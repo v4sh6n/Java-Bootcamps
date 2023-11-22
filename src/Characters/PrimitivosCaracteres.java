@@ -1,3 +1,5 @@
+package Characters;
+
 public class PrimitivosCaracteres {
 
     public static void main(String[] args) {

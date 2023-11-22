@@ -1,3 +1,5 @@
+package Conversion;
+
 public class ConversionDeTipos {
     public static void main(String[] args) {
         String numeroStr = "58";
@@ -19,7 +21,7 @@ public class ConversionDeTipos {
 
         String otroNumeroStr = Integer.toString(otroNumeroInt);
         System.out.println("OtroNumeroInt = " + otroNumeroInt);
-
+        
         otroNumeroStr = String.valueOf(otroNumeroInt + 10);
         System.out.println("otroNumeroStr = " + otroNumeroStr);
     }
