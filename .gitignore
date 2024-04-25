@@ -1,2 +1,5 @@
 /.metadata/
 *.class
+**/*.class
+.gitignore
+.gitignore
