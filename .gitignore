@@ -3,3 +3,5 @@
 **/*.class
 .gitignore
 .gitignore
+*.class
+*.class
